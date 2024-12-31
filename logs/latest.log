@@ -1,0 +1,220 @@
+[19:40:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:40:22] [ServerMain/INFO]: Loaded 1370 recipes
+[19:40:22] [ServerMain/INFO]: Loaded 1481 advancements
+[19:40:22] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:40:22] [Server thread/INFO]: Loading properties
+[19:40:22] [Server thread/INFO]: Default game type: SURVIVAL
+[19:40:22] [Server thread/INFO]: Generating keypair
+[19:40:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:40:22] [Server thread/INFO]: Using default channel type
+[19:40:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:40:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:40:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:40:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:40:22] [Server thread/INFO]: Preparing level "world"
+[19:40:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:40:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:40:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:40:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:40:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:40:24] [Server thread/INFO]: Time elapsed: 1753 ms
+[19:40:24] [Server thread/INFO]: Done (2.201s)! For help, type "help"
+[19:41:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:41:33] [Server thread/INFO]: Floquinhu[/26.247.64.87:56977] logged in with entity id 14 at (2.5, 129.0, -7.5)
+[19:41:33] [Server thread/INFO]: Floquinhu joined the game
+[19:42:04] [Server thread/INFO]: Floquinhu lost connection: Disconnected
+[19:42:04] [Server thread/INFO]: Floquinhu left the game
+[19:42:47] [Server thread/INFO]: Floquinhu[/26.247.64.87:57014] logged in with entity id 444 at (6.6713894217256975, 129.0, -5.966829389077943)
+[19:42:47] [Server thread/INFO]: Floquinhu joined the game
+[19:43:00] [Server thread/INFO]: [Not Secure] <Floquinhu> teste
+[19:43:20] [Server thread/INFO]: Floquinhu fell from a high place
+[19:48:04] [Server thread/INFO]: Loidebottom[/26.166.123.158:51140] logged in with entity id 1850 at (-0.5, 111.0, 0.5)
+[19:48:04] [Server thread/INFO]: Loidebottom joined the game
+[19:48:11] [Server thread/INFO]: Samuckz[/26.136.8.223:56942] logged in with entity id 1888 at (-8.5, 120.0, 1.5)
+[19:48:11] [Server thread/INFO]: Samuckz joined the game
+[19:50:22] [Server thread/INFO]: Samuckz has made the advancement [Stone Age]
+[19:50:31] [Server thread/INFO]: Samuckz has made the advancement [Getting an Upgrade]
+[19:51:40] [Server thread/INFO]: Loidebottom has made the advancement [Stone Age]
+[19:52:19] [Server thread/INFO]: Floquinhu has made the advancement [Stone Age]
+[19:52:25] [Server thread/INFO]: Floquinhu has made the advancement [Monster Hunter]
+[19:52:33] [Server thread/INFO]: Floquinhu was slain by Loidebottom
+[19:52:54] [Server thread/INFO]: Samuckz was slain by Zombie
+[19:52:56] [Server thread/INFO]: Loidebottom has made the advancement [Getting an Upgrade]
+[19:53:17] [Server thread/INFO]: Loidebottom has made the advancement [Monster Hunter]
+[19:53:22] [Server thread/INFO]: Samuckz has made the advancement [Monster Hunter]
+[19:59:15] [Server thread/INFO]: Loidebottom was blown up by Creeper
+[20:00:08] [Server thread/INFO]: Samuckz hit the ground too hard
+[20:04:24] [Server thread/INFO]: Samuckz was slain by Zombie
+[20:05:16] [Server thread/INFO]: Floquinhu has made the advancement [Getting an Upgrade]
+[20:05:43] [Server thread/INFO]: Loidebottom was slain by Zombie
+[20:20:23] [Server thread/INFO]: Loidebottom lost connection: Timed out
+[20:20:23] [Server thread/INFO]: Loidebottom left the game
+[20:20:56] [Server thread/INFO]: Loidebottom[/26.166.123.158:51274] logged in with entity id 10498 at (172.1258598125633, 64.0, -392.50389191132547)
+[20:20:56] [Server thread/INFO]: Loidebottom joined the game
+[20:22:46] [Server thread/INFO]: [Not Secure] <Samuckz> 331 -331
+[20:23:06] [Server thread/INFO]: [Not Secure] <Floquinhu> casa: 95 -160
+[20:24:30] [Server thread/INFO]: Floquinhu has made the advancement [Acquire Hardware]
+[20:25:02] [Server thread/INFO]: Samuckz has made the advancement [A Seedy Place]
+[20:27:55] [Server thread/INFO]: Samuckz has made the advancement [Ice Bucket Challenge]
+[20:28:26] [Server thread/INFO]: Samuckz has made the advancement [Sweet Dreams]
+[20:28:27] [Server thread/INFO]: Floquinhu has made the advancement [Sweet Dreams]
+[20:28:31] [Server thread/INFO]: Loidebottom has made the advancement [Sweet Dreams]
+[20:36:15] [Server thread/INFO]: [Not Secure] <Samuckz> 238 -1335
+[20:43:36] [Server thread/INFO]: Loidebottom was slain by Zombie
+[20:44:18] [Server thread/INFO]: [Not Secure] <Floquinhu> 199 -1120
+[20:44:27] [Server thread/INFO]: Samuckz has made the advancement [Acquire Hardware]
+[20:44:52] [Server thread/INFO]: Loidebottom was shot by Skeleton
+[20:48:32] [Server thread/INFO]: Loidebottom was slain by Polar Bear
+[20:50:18] [Server thread/INFO]: Samuckz has made the advancement [Not Today, Thank You]
+[20:57:34] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=265, y=116, z=-1347} ji{x=264, y=116, z=-1347}
+[20:57:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=269, y=116, z=-1346} ji{x=271, y=115, z=-1345}
+[20:57:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=269, y=116, z=-1346} ji{x=271, y=115, z=-1345}
+[20:57:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=270, y=115, z=-1338} ji{x=273, y=115, z=-1338}
+[20:57:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=267, y=116, z=-1341} ji{x=267, y=114, z=-1340}
+[20:57:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=267, y=116, z=-1341} ji{x=267, y=114, z=-1340}
+[20:59:27] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=250, y=118, z=-1363} ji{x=249, y=118, z=-1363}
+[20:59:27] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=250, y=118, z=-1363} ji{x=249, y=118, z=-1363}
+[20:59:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=252, y=118, z=-1365} ji{x=253, y=117, z=-1366}
+[20:59:47] [Server thread/INFO]: Villager coj['Nitwit'/33898, l='ServerLevel[world]', x=678.63, y=64.00, z=851.28] died, message: 'Nitwit suffocated in a wall'
+[21:00:30] [Server thread/INFO]: Loidebottom lost connection: Timed out
+[21:00:30] [Server thread/INFO]: Loidebottom left the game
+[21:01:03] [Server thread/INFO]: Loidebottom[/26.166.123.158:51410] logged in with entity id 34634 at (769.1692647082721, 63.0, 582.5192779870885)
+[21:01:03] [Server thread/INFO]: Loidebottom joined the game
+[21:01:34] [Server thread/INFO]: Loidebottom lost connection: Timed out
+[21:01:34] [Server thread/INFO]: Loidebottom left the game
+[21:02:12] [Server thread/INFO]: Loidebottom[/26.166.123.158:51485] logged in with entity id 35075 at (769.1692647082721, 63.0, 582.5192779870885)
+[21:02:12] [Server thread/INFO]: Loidebottom joined the game
+[21:05:51] [Server thread/INFO]: Samuckz has made the advancement [Voluntary Exile]
+[21:12:41] [Server thread/INFO]: Loidebottom was shot by Skeleton
+[21:15:38] [Server thread/INFO]: Floquinhu lost connection: Disconnected
+[21:15:38] [Server thread/INFO]: Floquinhu left the game
+[21:24:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:24:55] [Server thread/INFO]: tell oi<--[HERE]
+[21:24:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:24:58] [Server thread/INFO]: oi<--[HERE]
+[21:25:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:25:10] [Server thread/INFO]: tell oi<--[HERE]
+[21:25:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:25:18] [Server thread/INFO]: info<--[HERE]
+[21:26:12] [Server thread/INFO]: /advancement (grant|revoke)
+[21:26:12] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[21:26:12] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[21:26:12] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[21:26:12] [Server thread/INFO]: /clear [<targets>]
+[21:26:12] [Server thread/INFO]: /clone (<begin>|from)
+[21:26:12] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[21:26:12] [Server thread/INFO]: /data (merge|get|remove|modify)
+[21:26:12] [Server thread/INFO]: /datapack (enable|disable|list)
+[21:26:12] [Server thread/INFO]: /debug (start|stop|function)
+[21:26:12] [Server thread/INFO]: /defaultgamemode <gamemode>
+[21:26:12] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[21:26:12] [Server thread/INFO]: /effect (clear|give)
+[21:26:12] [Server thread/INFO]: /me <action>
+[21:26:12] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[21:26:12] [Server thread/INFO]: /experience (add|set|query)
+[21:26:12] [Server thread/INFO]: /xp -> experience
+[21:26:12] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[21:26:12] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[21:26:12] [Server thread/INFO]: /forceload (add|remove|query)
+[21:26:12] [Server thread/INFO]: /function <name> [<arguments>|with]
+[21:26:12] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[21:26:12] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[21:26:12] [Server thread/INFO]: /give <targets> <item> [<count>]
+[21:26:12] [Server thread/INFO]: /help [<command>]
+[21:26:12] [Server thread/INFO]: /item (replace|modify)
+[21:26:12] [Server thread/INFO]: /kick <targets> [<reason>]
+[21:26:12] [Server thread/INFO]: /kill [<targets>]
+[21:26:12] [Server thread/INFO]: /list [uuids]
+[21:26:12] [Server thread/INFO]: /locate (structure|biome|poi)
+[21:26:12] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[21:26:12] [Server thread/INFO]: /msg <targets> <message>
+[21:26:12] [Server thread/INFO]: /tell -> msg
+[21:26:12] [Server thread/INFO]: /w -> msg
+[21:26:12] [Server thread/INFO]: /particle <name> [<pos>]
+[21:26:12] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[21:26:12] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[21:26:12] [Server thread/INFO]: /random (value|roll|reset)
+[21:26:12] [Server thread/INFO]: /reload
+[21:26:12] [Server thread/INFO]: /recipe (give|take)
+[21:26:12] [Server thread/INFO]: /return (<value>|fail|run)
+[21:26:12] [Server thread/INFO]: /ride <target> (mount|dismount)
+[21:26:12] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
+[21:26:12] [Server thread/INFO]: /say <message>
+[21:26:12] [Server thread/INFO]: /schedule (function|clear)
+[21:26:12] [Server thread/INFO]: /scoreboard (objectives|players)
+[21:26:12] [Server thread/INFO]: /seed
+[21:26:12] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[21:26:12] [Server thread/INFO]: /spawnpoint [<targets>]
+[21:26:12] [Server thread/INFO]: /setworldspawn [<pos>]
+[21:26:12] [Server thread/INFO]: /spectate [<target>]
+[21:26:12] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[21:26:12] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[21:26:12] [Server thread/INFO]: /summon <entity> [<pos>]
+[21:26:12] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[21:26:12] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[21:26:12] [Server thread/INFO]: /teammsg <message>
+[21:26:12] [Server thread/INFO]: /tm -> teammsg
+[21:26:12] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[21:26:12] [Server thread/INFO]: /tp -> teleport
+[21:26:12] [Server thread/INFO]: /tellraw <targets> <message>
+[21:26:12] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[21:26:12] [Server thread/INFO]: /time (set|add|query)
+[21:26:12] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[21:26:12] [Server thread/INFO]: /trigger <objective> [add|set]
+[21:26:12] [Server thread/INFO]: /weather (clear|rain|thunder)
+[21:26:12] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[21:26:12] [Server thread/INFO]: /jfr (start|stop)
+[21:26:12] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[21:26:12] [Server thread/INFO]: /banlist [ips|players]
+[21:26:12] [Server thread/INFO]: /ban <targets> [<reason>]
+[21:26:12] [Server thread/INFO]: /deop <targets>
+[21:26:12] [Server thread/INFO]: /op <targets>
+[21:26:12] [Server thread/INFO]: /pardon <targets>
+[21:26:12] [Server thread/INFO]: /pardon-ip <target>
+[21:26:12] [Server thread/INFO]: /perf (start|stop)
+[21:26:12] [Server thread/INFO]: /save-all [flush]
+[21:26:12] [Server thread/INFO]: /save-off
+[21:26:12] [Server thread/INFO]: /save-on
+[21:26:12] [Server thread/INFO]: /setidletimeout <minutes>
+[21:26:12] [Server thread/INFO]: /stop
+[21:26:12] [Server thread/INFO]: /transfer <hostname> [<port>]
+[21:26:12] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[21:26:57] [Server thread/INFO]: An entity is required to run this command here
+[21:27:07] [Server thread/INFO]: An entity is required to run this command here
+[21:27:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:27:27] [Server thread/INFO]: tell oi<--[HERE]
+[21:27:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:27:38] [Server thread/INFO]: tell oi<--[HERE]
+[21:28:14] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[21:28:14] [Server thread/INFO]: tell -> oii<--[HERE]
+[21:29:13] [Server thread/INFO]: Invalid name or UUID
+[21:29:13] [Server thread/INFO]: tell <oi><--[HERE]
+[21:29:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:29:18] [Server thread/INFO]: tell oiii<--[HERE]
+[21:29:22] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[21:29:22] [Server thread/INFO]: tell -> oiii<--[HERE]
+[21:29:28] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[21:29:28] [Server thread/INFO]: tell ->oiii<--[HERE]
+[21:29:51] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[21:29:51] [Server thread/INFO]: tell -> oiii <--[HERE]
+[21:30:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:30:43] [Server thread/INFO]: tell oii<--[HERE]
+[21:31:17] [Server thread/INFO]: [Not Secure] [Server] oii
+[21:38:11] [Server thread/INFO]: Samuckz has made the advancement [Isn't It Iron Pick]
+[21:41:19] [Server thread/INFO]: Floquinhu[/26.247.64.87:57734] logged in with entity id 52246 at (196.712044249341, 43.0, -1338.7984297441842)
+[21:41:19] [Server thread/INFO]: Floquinhu joined the game
+[21:43:33] [Server thread/INFO]: Loidebottom has made the advancement [Acquire Hardware]
+[21:43:48] [Server thread/INFO]: Loidebottom has made the advancement [Isn't It Iron Pick]
+[21:44:03] [Server thread/INFO]: Floquinhu has made the advancement [Isn't It Iron Pick]
+[21:44:24] [Server thread/WARN]: Samuckz moved wrongly!
+[21:48:21] [Server thread/INFO]: Samuckz burned to death
+[21:58:00] [Server thread/INFO]: Samuckz has made the advancement [Diamonds!]
+[22:12:13] [Server thread/INFO]: Floquinhu has made the advancement [Suit Up]
+[22:12:38] [Server thread/INFO]: Loidebottom has made the advancement [Suit Up]
+[22:15:00] [Server thread/INFO]: Samuckz has made the advancement [Suit Up]
+[22:16:37] [Server thread/INFO]: Loidebottom lost connection: Disconnected
+[22:16:37] [Server thread/INFO]: Loidebottom left the game
+[22:16:45] [Server thread/INFO]: Samuckz lost connection: Disconnected
+[22:16:45] [Server thread/INFO]: Samuckz left the game
+[22:16:55] [Server thread/INFO]: Floquinhu lost connection: Disconnected
+[22:16:55] [Server thread/INFO]: Floquinhu left the game
