@@ -1,29 +1,63 @@
-[11:39:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:39:51] [ServerMain/INFO]: Loaded 1370 recipes
-[11:39:51] [ServerMain/INFO]: Loaded 1481 advancements
-[11:39:52] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[11:39:52] [Server thread/INFO]: Loading properties
-[11:39:52] [Server thread/INFO]: Default game type: SURVIVAL
-[11:39:52] [Server thread/INFO]: Generating keypair
-[11:39:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:39:52] [Server thread/INFO]: Using default channel type
-[11:39:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:39:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:39:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:39:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:39:52] [Server thread/INFO]: Preparing level "world"
-[11:39:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:39:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:39:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:39:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:39:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:39:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:39:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[11:39:55] [Server thread/INFO]: Time elapsed: 2637 ms
-[11:39:55] [Server thread/INFO]: Done (3.068s)! For help, type "help"
-[11:40:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[11:41:38] [Server thread/INFO]: Samuckz[/26.136.8.223:51815] logged in with entity id 8 at (237.81088060111637, 120.0, -1349.7902356359507)
-[11:41:38] [Server thread/INFO]: Samuckz joined the game
-[11:41:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
-[11:44:03] [Server thread/INFO]: Samuckz lost connection: Disconnected
-[11:44:03] [Server thread/INFO]: Samuckz left the game
+[19:41:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:41:13] [ServerMain/INFO]: Loaded 1370 recipes
+[19:41:13] [ServerMain/INFO]: Loaded 1481 advancements
+[19:41:13] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:41:13] [Server thread/INFO]: Loading properties
+[19:41:13] [Server thread/INFO]: Default game type: SURVIVAL
+[19:41:13] [Server thread/INFO]: Generating keypair
+[19:41:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:41:13] [Server thread/INFO]: Using default channel type
+[19:41:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:41:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:41:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:41:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:41:13] [Server thread/INFO]: Preparing level "world"
+[19:41:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:41:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:41:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:41:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:41:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:41:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:41:15] [Server thread/INFO]: Time elapsed: 2115 ms
+[19:41:15] [Server thread/INFO]: Done (2.396s)! For help, type "help"
+[19:42:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:42:31] [Server thread/INFO]: Samuckz[/26.136.8.223:52815] logged in with entity id 8 at (237.93288393855605, 120.0, -1349.6702705209084)
+[19:42:31] [Server thread/INFO]: Samuckz joined the game
+[19:52:09] [Server thread/INFO]: Loidebottom[/26.166.123.158:54383] logged in with entity id 2397 at (267.62215856827635, 116.0, -1355.699999988079)
+[19:52:09] [Server thread/INFO]: Loidebottom joined the game
+[19:56:11] [Server thread/INFO]: Loidebottom lost connection: Disconnected
+[19:56:11] [Server thread/INFO]: Loidebottom left the game
+[20:00:22] [Server thread/INFO]: [Not Secure] <Samuckz> flydigi direwolf
+[20:09:51] [Server thread/INFO]: Samuckz has made the advancement [Take Aim]
+[20:14:34] [Server thread/INFO]: Loidebottom[/26.166.123.158:55924] logged in with entity id 5906 at (267.62215856827635, 116.0, -1355.699999988079)
+[20:14:34] [Server thread/INFO]: Loidebottom joined the game
+[20:20:04] [Server thread/INFO]: Loidebottom has made the advancement [Best Friends Forever]
+[20:37:13] [Server thread/INFO]: Samuckz has made the advancement [Fishy Business]
+[20:41:51] [Server thread/INFO]: Loidebottom lost connection: Timed out
+[20:41:51] [Server thread/INFO]: Loidebottom left the game
+[20:43:49] [Server thread/INFO]: Loidebottom[/26.166.123.158:56795] logged in with entity id 11401 at (287.1027611989467, 116.0, -1361.712606436803)
+[20:43:49] [Server thread/INFO]: Loidebottom joined the game
+[21:28:39] [Server thread/INFO]: LetFerman[/26.172.188.235:51638] logged in with entity id 19121 at (-3.5, 115.0, 8.5)
+[21:28:39] [Server thread/INFO]: LetFerman joined the game
+[21:31:01] [Server thread/INFO]: [Not Secure] <Samuckz> 231 -1347
+[21:44:51] [Server thread/WARN]: Spruce Boat (vehicle of Loidebottom) moved too quickly! -7.81448295909766,0.0,-6.850278822915925
+[21:44:51] [Server thread/WARN]: Spruce Boat (vehicle of Loidebottom) moved too quickly! -8.11054308767504,0.0,-7.119081732840414
+[21:44:51] [Server thread/WARN]: Spruce Boat (vehicle of Loidebottom) moved too quickly! -8.403947522152926,0.0,-7.390562420955575
+[21:44:52] [Server thread/WARN]: Spruce Boat (vehicle of Loidebottom) moved too quickly! 6.903134068413465,0.0,10.025815107617063
+[21:44:52] [Server thread/WARN]: Spruce Boat (vehicle of Loidebottom) moved too quickly! 6.903134068413465,0.0,10.025815107617063
+[21:44:52] [Server thread/WARN]: Spruce Boat (vehicle of Loidebottom) moved too quickly! 6.903134068413465,0.0,10.025815107617063
+[21:44:52] [Server thread/WARN]: Spruce Boat (vehicle of Loidebottom) moved too quickly! 6.733712194627763,0.0,9.669895499205495
+[21:44:52] [Server thread/WARN]: Spruce Boat (vehicle of Loidebottom) moved too quickly! 6.551630550885683,0.0,9.32266574514847
+[21:44:52] [Server thread/WARN]: Spruce Boat (vehicle of Loidebottom) moved too quickly! 6.3582041691073385,0.0,8.98320298279225
+[21:44:52] [Server thread/WARN]: Spruce Boat (vehicle of Loidebottom) moved too quickly! 6.154611496693526,0.0,8.650682380168405
+[21:44:52] [Server thread/WARN]: Spruce Boat (vehicle of Loidebottom) moved too quickly! 5.941908027041215,0.0,8.324367314296069
+[21:51:24] [Server thread/INFO]: LetFerman has made the advancement [Sweet Dreams]
+[21:52:56] [Server thread/INFO]: LetFerman has made the advancement [Acquire Hardware]
+[21:55:12] [Server thread/INFO]: LetFerman has made the advancement [Isn't It Iron Pick]
+[22:06:11] [Server thread/INFO]: LetFerman has made the advancement [Stone Age]
+[22:07:09] [Server thread/INFO]: Loidebottom lost connection: Disconnected
+[22:07:09] [Server thread/INFO]: Loidebottom left the game
+[22:07:30] [Server thread/INFO]: LetFerman lost connection: Disconnected
+[22:07:30] [Server thread/INFO]: LetFerman left the game
+[22:09:09] [Server thread/INFO]: Samuckz lost connection: Disconnected
+[22:09:09] [Server thread/INFO]: Samuckz left the game

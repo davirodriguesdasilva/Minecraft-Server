@@ -14,9 +14,11 @@
       "minecraft:taiga": "2024-12-30 20:05:05 -0300",
       "minecraft:river": "2024-12-30 20:03:14 -0300",
       "minecraft:snowy_plains": "2024-12-30 20:26:56 -0300",
+      "minecraft:stony_shore": "2025-01-01 21:42:43 -0300",
       "minecraft:lush_caves": "2024-12-30 19:57:23 -0300",
       "minecraft:dripstone_caves": "2024-12-30 20:53:43 -0300",
       "minecraft:snowy_taiga": "2024-12-30 20:26:25 -0300",
+      "minecraft:old_growth_birch_forest": "2025-01-01 21:33:29 -0300",
       "minecraft:frozen_ocean": "2024-12-30 20:27:17 -0300",
       "minecraft:frozen_river": "2024-12-30 20:26:41 -0300",
       "minecraft:deep_dark": "2024-12-30 19:59:33 -0300",
@@ -332,6 +334,7 @@
       "minecraft:cave_spider": "2024-12-30 21:28:00 -0300",
       "minecraft:skeleton": "2024-12-30 20:50:28 -0300",
       "minecraft:enderman": "2024-12-31 20:12:00 -0300",
+      "minecraft:witch": "2025-01-01 21:18:11 -0300",
       "minecraft:spider": "2024-12-30 21:20:40 -0300",
       "minecraft:zombie": "2024-12-30 19:53:22 -0300",
       "minecraft:creeper": "2024-12-30 20:13:39 -0300",
@@ -348,10 +351,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-01-01 21:31:58 -0300",
       "bread": "2024-12-30 20:25:32 -0300",
       "rotten_flesh": "2024-12-30 19:55:57 -0300",
       "cooked_mutton": "2024-12-30 20:45:24 -0300",
       "glow_berries": "2024-12-30 19:58:27 -0300",
+      "cooked_cod": "2025-01-01 21:11:27 -0300",
       "sweet_berries": "2024-12-30 20:07:51 -0300",
       "cooked_beef": "2024-12-30 21:46:41 -0300",
       "baked_potato": "2024-12-31 19:51:23 -0300",
@@ -2240,6 +2245,60 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-31 21:09:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-01 19:48:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-01-01 20:37:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-01 20:37:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-01 20:32:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-01 20:09:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-01 20:14:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-01 20:37:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-01 20:32:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-01 20:37:59 -0300"
     },
     "done": true
   },
