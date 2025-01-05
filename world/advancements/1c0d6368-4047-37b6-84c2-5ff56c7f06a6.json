@@ -1344,9 +1344,15 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "iron_chestplate": "2024-12-30 22:12:13 -0300"
+      "iron_pickaxe": "2024-12-30 21:44:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-30 21:44:40 -0300"
     },
     "done": true
   },
@@ -1356,21 +1362,15 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-30 21:44:03 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 21:58:28 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_emerald": "2024-12-30 21:44:40 -0300"
+      "iron_chestplate": "2024-12-30 22:12:13 -0300"
     },
     "done": true
   },
