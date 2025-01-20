@@ -1,27 +1,36 @@
-[21:07:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:07:02] [ServerMain/INFO]: Loaded 1370 recipes
-[21:07:03] [ServerMain/INFO]: Loaded 1481 advancements
-[21:07:03] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[21:07:03] [Server thread/INFO]: Loading properties
-[21:07:03] [Server thread/INFO]: Default game type: SURVIVAL
-[21:07:03] [Server thread/INFO]: Generating keypair
-[21:07:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:07:03] [Server thread/INFO]: Using default channel type
-[21:07:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:07:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:07:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:07:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:07:03] [Server thread/INFO]: Preparing level "world"
-[21:07:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:07:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:07:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:07:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:07:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:07:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:07:06] [Server thread/INFO]: Time elapsed: 2147 ms
-[21:07:06] [Server thread/INFO]: Done (2.554s)! For help, type "help"
-[21:07:56] [Server thread/INFO]: Samuckz[/26.136.8.223:49808] logged in with entity id 18 at (237.081460636412, 120.0, -1349.0010479397365)
-[21:07:56] [Server thread/INFO]: Samuckz joined the game
-[21:56:17] [Server thread/INFO]: Samuckz has made the advancement [Hot Stuff]
-[22:42:30] [Server thread/INFO]: Samuckz lost connection: Disconnected
-[22:42:30] [Server thread/INFO]: Samuckz left the game
+[18:01:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:01:03] [ServerMain/INFO]: Loaded 1370 recipes
+[18:01:03] [ServerMain/INFO]: Loaded 1481 advancements
+[18:01:03] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[18:01:03] [Server thread/INFO]: Loading properties
+[18:01:03] [Server thread/INFO]: Default game type: SURVIVAL
+[18:01:03] [Server thread/INFO]: Generating keypair
+[18:01:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:01:04] [Server thread/INFO]: Using default channel type
+[18:01:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:01:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:01:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:01:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:01:04] [Server thread/INFO]: Preparing level "world"
+[18:01:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:01:06] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:01:06] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:01:06] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:01:06] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:01:06] [Server thread/INFO]: Time elapsed: 2042 ms
+[18:01:06] [Server thread/INFO]: Done (2.518s)! For help, type "help"
+[18:02:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:02:11] [Server thread/INFO]: Samuckz[/26.136.8.223:50875] logged in with entity id 18 at (237.11876024513768, 120.0, -1349.0787114269592)
+[18:02:11] [Server thread/INFO]: Samuckz joined the game
+[20:14:23] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=199, y=69, z=-1385} ji{x=200, y=68, z=-1386}
+[20:14:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=203, y=68, z=-1389} ji{x=203, y=68, z=-1388}
+[20:14:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=199, y=69, z=-1389} ji{x=200, y=68, z=-1390}
+[20:14:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=199, y=69, z=-1389} ji{x=200, y=68, z=-1390}
+[20:14:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=199, y=69, z=-1389} ji{x=200, y=68, z=-1390}
+[20:14:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=198, y=70, z=-1389} ji{x=200, y=68, z=-1390}
+[20:14:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=197, y=70, z=-1388} ji{x=197, y=68, z=-1389}
+[20:14:27] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=197, y=68, z=-1392} ji{x=198, y=67, z=-1393}
+[20:14:27] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=197, y=68, z=-1392} ji{x=198, y=67, z=-1393}
+[20:45:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=189, y=67, z=-1315} ji{x=187, y=67, z=-1315}
+[21:21:06] [Server thread/INFO]: Samuckz lost connection: Disconnected
+[21:21:06] [Server thread/INFO]: Samuckz left the game
